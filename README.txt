@@ -1,0 +1,3 @@
+This repository shows a quick, cut and dry example of kmeans clustering in R. I used the 2019 baseball savant pitch-by-pitch data set to get information for every pitcher's sliders (velocity, horizontal movement, vertical movement), and then created a data set that I could do clustering analysis with. The file is an R-Markdown file which prints to a PDF file. The raw data file is too large to upload here, but please reach out to me at Jon2Anderson@comcast.net for inquiries.
+
+This is all easily replicable in Python.
